@@ -13,7 +13,7 @@ In the project directory, you need run:
 
 ### `node src/server.js`
 
-Launches the server to connect with database.\
+Launches the server to connect with database.
 
 ### `npm start`
 
