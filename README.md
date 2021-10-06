@@ -7,6 +7,7 @@ There is a POST request to add user: /api/user/
 
 To request body you should input: { name: string, email: string, phone: string, birthday: string }
 
+
 In the project directory, you need run:
 
 ### `node src/server.js`
