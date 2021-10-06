@@ -1,5 +1,6 @@
 # Getting Started with Waites Test Task
 
+You need to run `npm i` to install project requirements.
 
 You need to preinstall and populate Mongodb. 
 
