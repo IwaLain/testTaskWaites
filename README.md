@@ -20,4 +20,4 @@ Launches the server to connect with database.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Or you can watch demonstration video: https://youtu.be/_kXIRwgWTE8
+## Or you can watch the demonstration video: https://youtu.be/_kXIRwgWTE8
